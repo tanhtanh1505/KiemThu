@@ -2,7 +2,7 @@
 
 ### Description
 
-Using JUnit to test the `DummyTel.java` class
+Using JUnit to test the <a href='src/DummyTel.java'>`DummyTel.java`</a> class
 
 ### Requirements
 
@@ -13,9 +13,9 @@ Using JUnit to test the `DummyTel.java` class
 
 There are two ways
 
-- Add <a href="/lib/junit-4.13.1.jar">JUnit</a> to the project normally
+- Add <a href="lib/junit-4.13.1.jar">JUnit</a> to the project normally
 
-- `Alt + Enter` to tag `@Test` in <a href='/src/DummyTelTest.java'>`DummyTelTest.java`</a> then Intellij will suggest,
+- `Alt + Enter` to tag `@Test` in <a href='src/DummyTelTest.java'>`DummyTelTest.java`</a> then Intellij will suggest,
   select download and import it automatically
 
 ### Run
