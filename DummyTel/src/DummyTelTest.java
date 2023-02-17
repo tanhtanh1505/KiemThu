@@ -67,14 +67,14 @@ public class DummyTelTest extends TestCase {
     @Test
     public void testCalc() {
         assertEquals(15.75, tel.calc(7, 59, 60));
-        assertEquals(12.01, tel.calc(7, 59, 61));
+        assertEquals(13.61, tel.calc(7, 59, 61));
         assertEquals(31.5, tel.calc(8, 0, 60));
-        assertEquals(24.02, tel.calc(8, 0, 61));
+        assertEquals(27.22, tel.calc(8, 0, 61));
 
         assertEquals(31.5, tel.calc(17, 59, 60));
-        assertEquals(24.02, tel.calc(17, 59, 61));
+        assertEquals(27.22, tel.calc(17, 59, 61));
         assertEquals(15.75, tel.calc(18, 0, 60));
-        assertEquals(12.01, tel.calc(18, 0, 61));
+        assertEquals(13.61, tel.calc(18, 0, 61));
 
         assertEquals(15.75, tel.calc(13, 30, 30));
         assertEquals(7.88, tel.calc(1, 30, 30));

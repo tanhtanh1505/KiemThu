@@ -39,7 +39,7 @@ public class DummyTel {
 
         // check if minus calling is more than 60
         if (minusCalling > 60) {
-            ratio *= 0.75;
+            ratio *= 0.85;
         }
 
         // totalPrice round to 2 decimal places
