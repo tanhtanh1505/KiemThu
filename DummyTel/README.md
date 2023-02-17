@@ -15,7 +15,7 @@ There are two ways
 
 - Add <a href="lib/junit-4.13.1.jar">JUnit</a> to the project normally
 
-- `Alt + Enter` to tag `@Test` in <a href='src/DummyTelTest.java'>`DummyTelTest.java`</a> then Intellij will suggest,
+- Or `Alt + Enter` to tag `@Test` in <a href='src/DummyTelTest.java'>`DummyTelTest.java`</a> then Intellij will suggest,
   select download and import it automatically
 
 ### Run
